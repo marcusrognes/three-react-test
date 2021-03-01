@@ -40,7 +40,7 @@
 		"react-three-fiber": "^3.0.15",
 		"react-use-gesture": "^6.0.14",
 		"styled-components": "^4.4.1",
-		"three": "^0.111.0"
+		"three": "^0.125.0"
 	},
 	"devDependencies": {
 		"@babel/core": "^7.7.4",
